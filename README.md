@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Minimax Algorithm
 
-![Tic-Tac-Toe](tictactoe.png)
+
 
 ## Overview
 
