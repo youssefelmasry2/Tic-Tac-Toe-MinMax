@@ -18,7 +18,7 @@ This project implements the classic game of Tic-Tac-Toe using the Minimax algori
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-minimax.git
+   git clone https://github.com/youssefelmasry2/Tic-Tac-Toe-MinMax.git
 Run the game:python tictactoe.py
 
 Requirements
